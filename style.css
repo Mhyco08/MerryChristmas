@@ -1,0 +1,26 @@
+body{
+    margin: 10px;
+    font-family: Arial;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CARD{
+    height: auto;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: brown;
+}
+.CARD img{
+    height: auto;
+    max-width: 90%;
+    margin: 1%;
+}
+
+.CARD h1{
+    margin: 1%;
+}
